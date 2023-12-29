@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #FFFFFF;
+}
+ul.reset,
+ul.reset li,
+ul.reset ul li {
+   margin:0;
+   padding: 0;
+   text-indent: 0;
+   list-style-type: none;
+}
+.movies-container{
+  padding: 20px;
+}
+
+

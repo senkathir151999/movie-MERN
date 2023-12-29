@@ -1,0 +1,14 @@
+.tabs .tab-list {
+  display: flex;
+}
+.tabs .tab-list .tab {
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 500;
+  color: #d6d6d6;
+}
+.tabs .tab-list .active {
+  font-size: 20px;
+  font-weight: 700;
+  color: #212121;
+}
